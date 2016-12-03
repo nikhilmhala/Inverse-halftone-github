@@ -1,0 +1,2 @@
+cd /Users/nikhilmhala/Documents/inverseHalftoning/
+./fastiht1 lena_halftone.pgm test1.pgm 0 4 1 
